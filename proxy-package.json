@@ -1,0 +1,5 @@
+{
+  "name": "nexgen-solar-proxy",
+  "version": "1.0.0",
+  "description": "NexGen Solar Claude API proxy for Vercel"
+}
